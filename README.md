@@ -4,3 +4,4 @@
 - 📖 I'm currently studying a Systems Development Certificate Program
 - 📖 I'm learning C
 - 📖 I'm learning JavaScript
+- 📖 I'm learning jQuery
