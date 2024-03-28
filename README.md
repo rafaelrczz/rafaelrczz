@@ -1,6 +1,6 @@
 ## Hi, I'm Rafael Rodrigues!
 - 👨‍💻 I'm a Front-end developer.
-- 🗣️ I'm a fluent and advanced English speaker
+- 🗣️ I'm a fluent and advanced English and Portuguese speaker
 - ⚛️ I'm learning React
 
 ##
